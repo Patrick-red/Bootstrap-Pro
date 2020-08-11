@@ -1,0 +1,17 @@
+body{
+	font-family: 'Microsoft YaHei',sans-serif; 
+	
+}
+
+/*------------footer---------*/
+footer{
+	text-align: center;
+	padding: 20px 0;
+	background-color: #f8f8f8;
+}
+.mesComit{
+	margin-top: 15px;
+}
+textarea{
+	resize: none
+}

@@ -1,0 +1,17 @@
+/* CSS Document */
+.nav-pills{
+	border: 1px solid rgba(0,0,0,.1);
+	border-radius: 10px
+}
+.page-header{
+	margin: 0;
+	font-size: 16px;
+	margin-bottom: 20px
+}
+.container form{
+	padding: 20px;
+	
+	border: 1px solid #ddd;
+	border-top: none
+
+}
